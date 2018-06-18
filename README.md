@@ -2,7 +2,7 @@
 
 ## Andrew Ng's Stanford University Machine Learning Course (Coursera)
 
-Assignments for this course are written in Octave. Beware there may contain mistakes. 
+Assignments for this course are written in Octave and MatLab. Beware there may contain mistakes. 
 
 ### Assignment 1 - Linear Regression
 Linear regression with one variable to predict profits for a food truck. 
