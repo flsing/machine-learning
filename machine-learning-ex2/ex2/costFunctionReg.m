@@ -22,9 +22,9 @@ hyp = sigmoid(X*theta);
 err = (hyp - y)';
 
 grad = ((err*X)/m) + (lambda* theta)/m;
-grad(1) =  (lambda * theta(1))/m;
+grad(1) -=  (lambda * theta(1))/m;
 
-reg = lambda / 2/m * theta(2:end) ' * theta(2:end); 
+reg = lambda / 2/m * theta(2:end) ' * theta(2:end);
 J = (1/m)*((-y' * log(hyp) - (1 - y)' * log(1 - hyp))) + reg;
 
 
