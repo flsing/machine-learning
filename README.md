@@ -11,7 +11,7 @@ Linear regression with one variable to predict profits for a food truck.
 Logistic Regression to predict whether a student will get admitted into university.
 Regularized logistic regression to predict whether microchips from a fabrication plant passes quality assurance.
 
-### Assignment 3 - Multi-class Classification & Neural Networks
+### Assignment 3 - Multi-class Classification & Neural Networks Representation 
 Implement one-vs-all logistic regression and neural networks to recognize hand-written digits.
 Logistic regression to recognize handwritten digits using multiple one-vs-all logistic regression models to build a multi-class classifier.
 Implement a neural network to recognize handwritten digits. The neural network will be able to represent complex models that form non-linear hypotheses. Implement the feedforward propagation algorithm for prediction.
@@ -19,7 +19,7 @@ Implement a neural network to recognize handwritten digits. The neural network w
 ### Assignment 4 - Neural Networks Learning 
 Implement the backpropagation algorithm for neural networks and apply it to the task of hand-written digit recognition. Implement the backpropagation algorithm to learn the parameters for the neural network
 
-### Assignment 5
+### Assignment 5 - Regularized Linear Regression and Bias vs Variance
 
 ### Assignment 6
 
