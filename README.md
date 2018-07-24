@@ -22,7 +22,7 @@ Implement the backpropagation algorithm for neural networks and apply it to the 
 ### Assignment 5 - Regularized Linear Regression and Bias vs Variance
 Implement regularized linear regression and use it to study models with different bias-variance properties. Implement regularized linear regression to predict the amount of water flowing out of a dam using the change of water level in a reservoir. 
 
-### Assignment 6
+### Assignment 6 - Support Vector Machines (SVM)
 
 ### Assignment 7
 
