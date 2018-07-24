@@ -17,7 +17,7 @@ Logistic regression to recognize handwritten digits using multiple one-vs-all lo
 Implement a neural network to recognize handwritten digits. The neural network will be able to represent complex models that form non-linear hypotheses. Implement the feedforward propagation algorithm for prediction.
 
 ### Assignment 4 - Neural Networks Learning 
-Implement the backpropagation algorithm for neural networks and apply it to the task of hand-written digit recognition. Implement the backpropagation algorithm to learn the parameters for the neural network
+Implement the backpropagation algorithm for neural networks and apply it to the task of hand-written digit recognition. Implement  the cost function and gradient for the neural network with regularization. Implement the sigmoid gradient function. Randomize the initialization. Implement the backpropagation algorithm to learn the parameters for the neural network and regularization to the gradient. 
 
 ### Assignment 5 - Regularized Linear Regression and Bias vs Variance
 
