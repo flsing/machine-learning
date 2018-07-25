@@ -23,9 +23,10 @@ Implement the backpropagation algorithm for neural networks and apply it to the 
 Implement regularized linear regression and use it to study models with different bias-variance properties. Implement regularized linear regression to predict the amount of water flowing out of a dam using the change of water level in a reservoir. Implement polynomial regression to find a better fit to the data. Implement code to generate the learning curves that will be useful in debugging learning algorithms. Implement an automated method to select the lambda parameter (regularization) and use a cross validation to determine how good each lamda value is. 
 
 ### Assignment 6 - Support Vector Machines (SVM)
-Using SVMs to build a spam classifier. Using SVMs with Gaussian kernels on datasets that are not linearly separable. Implement the Guassian kernel algorithm. 
+Using SVMs to build a spam classifier. Using SVMs with Gaussian kernels on datasets that are not linearly separable. Implement the Guassian kernel algorithm and find the best paraneters for it. Implement preprocessing methods and feature extraction. 
 
-### Assignment 7
+### Assignment 7 - K-means Clustering and Principal Component Analysis
+Implement the K-means clustering algorithm and apply it to compress an image. Use principle component analysis to find a low-dimensional representation of face images. 
 
 ### Assignment 8
 
