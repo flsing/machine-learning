@@ -28,5 +28,6 @@ Using SVMs to build a spam classifier. Using SVMs with Gaussian kernels on datas
 ### Assignment 7 - K-means Clustering and Principal Component Analysis
 Implement the K-means clustering algorithm and apply it to compress an image. Use principle component analysis to find a low-dimensional representation of face images. 
 
-### Assignment 8
+### Assignment 8 - Anomaly Detection and Recommender Systems
+Implement the anomaly detection algorithm and apply it to detect failing servers on a network. Use collaborative filtering to build a recommender system for movies. 
 
