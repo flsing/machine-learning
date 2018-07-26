@@ -26,7 +26,7 @@ Implement regularized linear regression and use it to study models with differen
 Using SVMs to build a spam classifier. Using SVMs with Gaussian kernels on datasets that are not linearly separable. Implement the Guassian kernel algorithm and find the best paraneters for it. Implement preprocessing methods and feature extraction. 
 
 ### Assignment 7 - K-means Clustering and Principal Component Analysis
-Implement the K-means clustering algorithm and apply it to compress an image. Use principle component analysis to find a low-dimensional representation of face images. 
+Implement the K-means clustering algorithm and apply it to compress an image. Use principle component analysis to find a low-dimensional representation of face images. Finding the closest centdroids, computing centroid means. Compute the covariance matrix of the data and compute the eigenvectors. Projecting the data onto the principal components, and reconstructing an approximation of the data. 
 
 ### Assignment 8 - Anomaly Detection and Recommender Systems
 Implement the anomaly detection algorithm and apply it to detect failing servers on a network. Use collaborative filtering to build a recommender system for movies. 
