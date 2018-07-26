@@ -5,7 +5,7 @@
 Assignments for this course are written in Octave and Matlab. Beware there may contain mistakes. 
 
 ### Assignment 1 - Linear Regression
-Linear regression with one variable to predict profits for a food truck. 
+Linear regression with one variable to predict profits for a food truck.  Implement gradient descent. 
 
 ### Assignment 2 - Logistic Regression & Regularized Logistic Regression
 Logistic Regression to predict whether a student will get admitted into university.
