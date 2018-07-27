@@ -29,5 +29,5 @@ Using SVMs to build a spam classifier. Using SVMs with Gaussian kernels on datas
 Implement the K-means clustering algorithm and apply it to compress an image. Use principle component analysis to find a low-dimensional representation of face images. Finding the closest centdroids, computing centroid means. Compute the covariance matrix of the data and compute the eigenvectors. Projecting the data onto the principal components, and reconstructing an approximation of the data. 
 
 ### Assignment 8 - Anomaly Detection and Recommender Systems
-Implement the anomaly detection algorithm and apply it to detect failing servers on a network. Use collaborative filtering to build a recommender system for movies. 
+Implement the anomaly detection algorithm and apply it to detect failing servers on a network. Use a Gaussian model to detect anomalous examples in the dataset.  Use collaborative filtering to build a recommender system for movies. Implemented the collaborative filtering cost function (with and without regularization) and the gradient descent (with and without regularization). Added personal ratings to movies to get personalized movie recommendations. 
 
