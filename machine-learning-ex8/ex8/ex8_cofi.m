@@ -204,6 +204,10 @@ my_ratings(216)= 5;
 my_ratings(237)= 4;
 my_ratings(249)= 5;
 my_ratings(258)= 4;
+my_ratings(272)= 5;
+my_ratings(273)= 5;
+my_ratings(274)= 5;
+my_ratings(278)= 1;
 
 fprintf('\n\nNew user ratings:\n');
 for i = 1:length(my_ratings)
